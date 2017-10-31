@@ -1,0 +1,26 @@
+footer hr{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.footer-options-myfb ul{
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+.footer-options-myfb ul li{
+  float:left;
+  list-style: none;
+  padding: 5px;
+  font-size: 12px;
+}
+.footer-options-myfb ul li a{
+  text-decoration: none;
+  color: #3b5998;
+
+}
+.copyrights-footer{
+  color: darkgrey;
+  font-size: x-small;
+  margin-top: 25px;
+}
+

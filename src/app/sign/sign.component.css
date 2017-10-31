@@ -1,0 +1,60 @@
+.login-main{
+  margin-top: 130px;
+}
+.multibox{
+  padding-left: 0px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+.login-main span{
+  font-size: 12px;
+}
+#texter{
+  align-content: center;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: bold ;
+  letter-spacing: normal;
+  text-rendering: optimizelegibility;
+  padding-top: 1px;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #a6a9b3;
+  align-content: center;
+}
+.fa-shield{
+  font-weight: bolder;
+}
+label{
+  font-weight: 600;
+}
+small{
+  color: #3b5998;
+}
+.btn-primary{
+  background-color: green;
+}
+a{
+  color: #345d92;
+  font-weight: bold;
+}
+
+.login-bottom-text1{
+  padding-bottom: inherit;
+  margin-bottom: 10px;
+}
+.form1{
+  padding-right: 60px;
+}
+.form2{
+  padding-right: 70px;
+}
+.text-center{
+  text-align: left;
+  size: 10px;
+}
+.container{
+  background: #e7edf7;
+}
+
